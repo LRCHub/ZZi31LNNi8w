@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Blast! (TRUE & Wind Orchestra Ver.)",
+  "base_artist": "TRUE",
+  "createdAt": "2026-01-12T06:31:54.391666Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blast! (TRUE & Wind Orchestra Ver.)",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/01_Blast!_(TRUE_&_Wind_Orchestra_Ver.)_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blast! - TRUE & Wind Orchestra Ver.",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/02_Blast!_-_TRUE_&_Wind_Orchestra_Ver._TRUE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blast! (TRUE & Wind Orchestra Ver.)",
+      "artist": "TRUE",
+      "has_synced": false,
+      "path": "select/03_Blast!_(TRUE_&_Wind_Orchestra_Ver.)_TRUE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blast! (TRUE&Wind Orchestra Ver.)",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/04_Blast!_(TRUE&Wind_Orchestra_Ver.)_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blast Off (feat. Juice WRLD & Trippie Redd)",
+      "artist": "Internet Money",
+      "has_synced": true,
+      "path": "select/05_Blast_Off_(feat._Juice_WRLD_&_Trippie_Redd)_Internet_Money.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blast Off",
+      "artist": "The Birthday Party",
+      "has_synced": true,
+      "path": "select/06_Blast_Off_The_Birthday_Party.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Half Blast",
+      "artist": "Throwing Muses",
+      "has_synced": true,
+      "path": "select/07_Half_Blast_Throwing_Muses.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blast Doors",
+      "artist": "Everything Everything",
+      "has_synced": true,
+      "path": "select/08_Blast_Doors_Everything_Everything.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blast! Gee, Officer Krupke",
+      "artist": "Leonard Bernstein",
+      "has_synced": false,
+      "path": "select/09_Blast!_Gee,_Officer_Krupke_Leonard_Bernstein.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blast Off",
+      "artist": "Future",
+      "has_synced": false,
+      "path": "select/10_Blast_Off_Future.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Having a Blast",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/11_Having_a_Blast_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gotta Blast",
+      "artist": "Pi’erre Bourne",
+      "has_synced": false,
+      "path": "select/12_Gotta_Blast_Pi’erre_Bourne.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "El Phantasmo And The Chicken-Run Blast-O-Rama - Album Version (Edited)",
+      "artist": "White Zombie",
+      "has_synced": false,
+      "path": "select/13_El_Phantasmo_And_The_Chicken-Run_Blast-O-Rama_-_Album_Version_(Edited)_White_Zombie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "El Phantasmo And The Chicken-Run Blast-O-Rama (Album Version Explicit)",
+      "artist": "White Zombie",
+      "has_synced": false,
+      "path": "select/14_El_Phantasmo_And_The_Chicken-Run_Blast-O-Rama_(Album_Version_Explicit)_White_Zombie.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "El Phantasmo And The Chicken-Run Blast-O-Rama - Wine, Women And Song Mix (Explicit)",
+      "artist": "White Zombie",
+      "has_synced": true,
+      "path": "select/15_El_Phantasmo_And_The_Chicken-Run_Blast-O-Rama_-_Wine,_Women_And_Song_Mix_(Explic_White_Zombie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "El Phantasmo And The Chicken-Run Blast-O-Rama (Wine, Women And Song Mix Explicit)",
+      "artist": "White Zombie",
+      "has_synced": true,
+      "path": "select/16_El_Phantasmo_And_The_Chicken-Run_Blast-O-Rama_(Wine,_Women_And_Song_Mix_Explicit_White_Zombie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Last Blast",
+      "artist": "Therapy?",
+      "has_synced": false,
+      "path": "select/17_Last_Blast_Therapy.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "She's A Blast",
+      "artist": "Beautiful Bodies",
+      "has_synced": true,
+      "path": "select/18_She's_A_Blast_Beautiful_Bodies.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Blast Off!",
+      "artist": "Rivers Cuomo",
+      "has_synced": false,
+      "path": "select/19_Blast_Off!_Rivers_Cuomo.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Blast Off!",
+      "artist": "Rivers Cuomo",
+      "has_synced": false,
+      "path": "select/20_Blast_Off!_Rivers_Cuomo.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Gotta Blast",
+      "artist": "Tay-K feat. Diego Money & Bandman Fari",
+      "has_synced": true,
+      "path": "select/21_Gotta_Blast_Tay-K_feat._Diego_Money_&_Bandman_Fari.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blast!",
+      "artist": "TRUE",
+      "has_synced": false,
+      "path": "select/pl_01_Blast!_TRUE.txt"
+    }
+  ]
+}
